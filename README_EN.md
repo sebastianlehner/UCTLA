@@ -16,6 +16,16 @@ With "ignition on" the red LED flashes as usual without any audible buzzer.
 -) selectable buzzer frequency via potentiometer (0.5 Hz - 4.8 Hz)  
 -) min. >83 dBA SPL (10cm distance)  
 
+### technical specifications
+
+supply voltage: 10 V  
+typ. supply current „buzzer off“: ~1 mA  
+typ. supply current „buzzer on“: 25 mA  
+min. buzzer-frequency: 0,5 Hz +/-20%  
+max. buzzer-frequency: 4,8 Hz +/-20%  
+operating temperature: -40°C ... 85°C  
+loudness: >83 dBA SPL (10cm Entfernung)  
+
 ### compatibility:
 ALL VW models with the following temperature gauges:
 
