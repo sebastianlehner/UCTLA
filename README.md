@@ -2,6 +2,7 @@
 
 <img width="300" height="199" alt="universal_coolant_temp-level-alarm_V1 0_PCB_transparent" src="https://github.com/user-attachments/assets/d708d577-253d-436f-bdd1-1b101441ebc7" />
 <img width="300" height="199" alt="universal_coolant_temp-level-alarm_V1 0_PCB_bot_transparent" src="https://github.com/user-attachments/assets/658f95db-acf7-4bce-a794-9d8946cb4a05" />
+<img width="300" height="220" alt="Einbauort-Tacho_T3" src="https://github.com/user-attachments/assets/8dbceeb7-8955-472c-a38b-0bedd4804ffb" />
 
 Diese Platine wird am Tacho auf die bestehende Kühlwassertemperatur-Anzeige angeschraubt und piepst, sobald die **Temperatur zu hoch** ist, oder der **Füllstandsensor zu wenig Wasser** detektiert.
 
