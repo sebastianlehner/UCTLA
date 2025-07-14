@@ -17,6 +17,16 @@ Bei "Zündung ein" blinkt die rote LED wie gewohnt, jedoch ertönt kein störend
 -) 10V Versorgung via Spannungskonstanter  
 -) min. >83 dBA SPL (10cm Entfernung)  
 
+### technische Spezifikationen
+
+Versorgungsspannung: 10 V  
+typ. Stromaufnahme „Piepsen aus“: ~1 mA  
+typ. Stromaufnahme „Piepsen ein“: 25 mA  
+minimale Pieps-Frequenz: 0,5 Hz +/-20%  
+maximale Pieps-Frequenz: 4,8 Hz +/-20%  
+Umgebungstemperatur: -40°C ... 85°C  
+Lautstärke: >83 dBA SPL (10cm Entfernung)  
+
 ### Kompatibilität:
 ALLE VW-Modelle mit folgenden Temperaturanzeigen:
 
