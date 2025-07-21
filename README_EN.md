@@ -9,21 +9,71 @@ With "ignition on" the red LED flashes as usual without any audible buzzer.
 
 ### advantages:
 
--) high reliability -> everything on one board, no cables, no external buzzer, no loose connection  
--) compatible with all T25/vanagons and many other VW models  
--) serves as an additional safety feature alongside the flashing red LED  
--) selectable buzzer frequency via potentiometer (0.5 Hz - 4.8 Hz)  
--) min. >83 dBA SPL (10cm distance)  
+- high reliability -> everything on one board, no cables, no external buzzer, no loose connection  
+- compatible with all T25/vanagons and many other VW models  
+- serves as an additional safety feature alongside the flashing red LED  
+- selectable buzzer frequency via potentiometer (0.5 Hz - 4.8 Hz)  
+- min. >83 dBA SPL (10cm distance)  
 
-### technical specifications
-
-supply voltage: 10 V  
-typ. supply current „buzzer off“: ~1 mA  
-typ. supply current „buzzer on“: 25 mA  
-min. buzzer-frequency: 0,5 Hz +/-20%  
-max. buzzer-frequency: 4,8 Hz +/-20%  
-operating temperature: -40°C ... 85°C  
-loudness: >83 dBA SPL (10cm Entfernung)  
+### specifications
+<table class="vclTable">
+  <tr>
+    <td>
+      supply voltage
+    </td>
+    <td colspan="2">
+      10 V
+    </td>
+  </tr>
+  <tr>
+    <td>
+      typ. supply current „buzzer off“
+    </td>
+    <td colspan="2">
+      ~1 mA
+    </td>
+</tr>
+ <tr>
+  <td>
+    typ. supply current „buzzer on“
+  </td>
+  <td colspan="2">
+    25 mA
+  </td>
+</tr>
+<tr>
+  <td>
+    min. buzzer-frequency
+  </td>
+  <td colspan="2">
+    0.5 Hz +/-20%
+  </td>
+</tr>
+<tr>
+  <td>
+    max. buzzer-frequency
+  </td>
+  <td colspan="2">
+    4.8 Hz +/-20%
+  </td>
+</tr>
+<tr>
+  <td>
+    operating temperature
+  </td>
+  <td colspan="2">
+    -40°C ... 85°C
+  </td>
+</tr>
+<tr>
+  <td>
+    loudness
+  </td>
+  <td colspan="2">
+    >83 dBA SPL (10cm distance)
+  </td>
+</tr>
+</table>    
 
 ### compatibility:
 ALL VW models with the following temperature gauges:
