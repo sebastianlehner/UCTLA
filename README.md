@@ -9,22 +9,72 @@ Bei "Zündung ein" blinkt die rote LED wie gewohnt, jedoch ertönt kein störend
 
 ### Vorteile:
 
--) hohe Zuverlässigkeit -> alles auf einer Platine, keine Kabel, kein externer Piepser, kein Wackelkontakt  
--) mit allen T3's und vielen weiteren VW-Modellen kompatibel  
--) dient als zusätzliche Sicherheit neben der blinkenden roten LED  
--) frei wählbare Piep-Frequenz mittels Potentiometer (0,5 Hz - 4,8 Hz)  
--) 10V Versorgung via Spannungskonstanter  
--) min. >83 dBA SPL (10cm Entfernung)  
+- hohe Zuverlässigkeit -> alles auf einer Platine, keine Kabel, kein externer Piepser, kein Wackelkontakt  
+- mit allen T3's und vielen weiteren VW-Modellen kompatibel  
+- dient als zusätzliche Sicherheit neben der blinkenden roten LED  
+- frei wählbare Piep-Frequenz mittels Potentiometer (0,5 Hz - 4,8 Hz)  
+- 10V Versorgung via Spannungskonstanter  
+- min. >83 dBA SPL (10cm Entfernung)  
 
-### technische Spezifikationen
-
-Versorgungsspannung: 10 V  
-typ. Stromaufnahme „Piepsen aus“: ~1 mA  
-typ. Stromaufnahme „Piepsen ein“: 25 mA  
-minimale Pieps-Frequenz: 0,5 Hz +/-20%  
-maximale Pieps-Frequenz: 4,8 Hz +/-20%  
-Umgebungstemperatur: -40°C ... 85°C  
-Lautstärke: >83 dBA SPL (10cm Entfernung)  
+### Spezifikationen
+<table class="vclTable">
+  <tr>
+    <td>
+      Versorgungsspannung
+    </td>
+    <td colspan="2">
+      10 V
+    </td>
+  </tr>
+  <tr>
+    <td>
+      typ. Stromaufnahme „Piepsen aus“
+    </td>
+    <td colspan="2">
+      ~1 mA
+    </td>
+</tr>
+ <tr>
+  <td>
+    typ. Stromaufnahme „Piepsen ein“
+  </td>
+  <td colspan="2">
+    25 mA
+  </td>
+</tr>
+<tr>
+  <td>
+    minimale Pieps-Frequenz
+  </td>
+  <td colspan="2">
+    0,5 Hz +/-20%
+  </td>
+</tr>
+<tr>
+  <td>
+    maximale Pieps-Frequenz
+  </td>
+  <td colspan="2">
+    4,8 Hz +/-20%
+  </td>
+</tr>
+<tr>
+  <td>
+    Umgebungstemperatur
+  </td>
+  <td colspan="2">
+    -40°C ... 85°C
+  </td>
+</tr>
+<tr>
+  <td>
+    Lautstärke
+  </td>
+  <td colspan="2">
+    >83 dBA SPL (10cm Entfernung)
+  </td>
+</tr>
+</table>  
 
 ### Kompatibilität:
 ALLE VW-Modelle mit folgenden Temperaturanzeigen:
