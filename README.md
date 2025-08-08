@@ -1,4 +1,6 @@
 # universal coolant temp level alarm V1.0
+DE - [Bedienungsanleitung](https://github.com/sebastianlehner/UCTLA/blob/main/universal_coolant_temp-level_alarm_V1.0_DE.pdf)  
+EN - [manual](https://github.com/sebastianlehner/UCTLA/blob/main/universal_coolant_temp-level_alarm_V1.0_EN.pdf)  
 
 <img width="300" height="300" alt="IMG_20231111_193440_small" src="https://github.com/user-attachments/assets/ce4e4cc3-6f98-4c94-81e7-c0c1e4f1d99a" />
 <img width="300" height="220" alt="Einbauort-Tacho_T3" src="https://github.com/user-attachments/assets/8dbceeb7-8955-472c-a38b-0bedd4804ffb" />
